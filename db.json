@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prod_name": "Cool Shirt",
+        "prod_price": 2.99
+    },
+    {
+        "id": 2,
+        "prod_name": "Cool T-Shirt",
+        "prod_price": 2.99
+    },
+    {
+        "id": 3,
+        "prod_name": "Cool Button Shirt",
+        "prod_price": 5.99
+    },
+    {
+        "id": 4,
+        "prod_name": "Cool T-Shirt",
+        "prod_price": 2.99
+    },
+    {
+        "id": 5,
+        "prod_name": "Cool Shirt",
+        "prod_price": 2.99
+    },
+    {
+        "id": 6,
+        "prod_name": "Cool T-Shirt",
+        "prod_price": 2.99
+    },
+    {
+        "id": 7,
+        "prod_name": "Cool Button Shirt",
+        "prod_price": 5.99
+    },
+    {
+        "id": 8,
+        "prod_name": "Cool T-Shirt",
+        "prod_price": 2.99
+    }
+]
